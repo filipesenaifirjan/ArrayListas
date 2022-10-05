@@ -1,0 +1,15 @@
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\bin\Debug\net6.0\ArrayListas.exe
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\bin\Debug\net6.0\ArrayListas.deps.json
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\bin\Debug\net6.0\ArrayListas.runtimeconfig.json
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\bin\Debug\net6.0\ArrayListas.dll
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\bin\Debug\net6.0\ArrayListas.pdb
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.csproj.AssemblyReference.cache
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.AssemblyInfoInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.AssemblyInfo.cs
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.csproj.CoreCompileInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.dll
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\refint\ArrayListas.dll
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.pdb
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ArrayListas.genruntimeconfig.cache
+C:\Users\Serratec\Desktop\projetos dev\arraylistas\ArrayListas\obj\Debug\net6.0\ref\ArrayListas.dll
